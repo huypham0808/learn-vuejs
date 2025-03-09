@@ -1,0 +1,17 @@
+<template>
+    <div class="account">
+      <h1>This is an My account page page</h1>
+    </div>
+  </template>
+  
+  <style>
+  @media (min-width: 1024px) {
+    .account {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      color: blue;
+    }
+  }
+  </style>
+  
