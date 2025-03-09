@@ -29,6 +29,7 @@ import { reactive, ref } from 'vue';
   }
   //Two way binding in Vuejs
   const text = ref('');
+
 </script>
 
 <template>
